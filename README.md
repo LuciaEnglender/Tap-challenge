@@ -15,10 +15,15 @@ Antes de iniciar el server, se debe crear una base de datos en PostgreSQL. Inser
 Luego, crear un archivo .env para asignar las variables de entorno:
 
 `PORT= 
+
 HOST= 
+
 PASSWORD= 
+
 USER= 
-DB = `
+
+DB = 
+`
 
 Ya finalizado el proceso anterior, inicializar el server con el siguiente comando :
 
