@@ -14,7 +14,7 @@ app.use("/game", apiGame);
 
 const { PORT } = process.env;
 app.listen(PORT, () => {
-  console.log("Server running on port 3001");
+  console.log(`Serever running on port ${PORT}`);
 });
 
 module.exports = app;
