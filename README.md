@@ -110,5 +110,5 @@ Para ejecutar los test, utilice el siguiente comando:
 
 `npm test`
 
-Disfrute mucho hacer este challenge!
+Disfruté mucho hacer este challenge!
 Saludos, Lucia Englender
