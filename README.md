@@ -87,7 +87,7 @@ Y en la sección body utilizar este formato:
 }
 ```
 
-Siendo id el correspondiente a la partida. En caso de que el resultado sea "WON", en code ingresar 2 y en description WON. De lo contrario, utilizar code 3 y description LOST. Por ejemplo : 
+Siendo id el correspondiente a la partida. En caso de que el resultado sea "WON", en code ingresar 2 y en description WON. De lo contrario, utilizar code 3 y description LOST. En cells, agregar la cantidad de celdas alcanzadas. Por ejemplo : 
 
 ```
 {
@@ -100,7 +100,7 @@ Siendo id el correspondiente a la partida. En caso de que el resultado sea "WON"
   },
   "cells": {
     "type": [
-      2,56,99
+      56
     ]
   }
 }
